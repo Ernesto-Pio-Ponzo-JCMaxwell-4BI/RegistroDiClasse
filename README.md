@@ -1,5 +1,5 @@
 # RegistroDiClasse
-1mo laboratorio classe 4ta informatica
+1mo laboratorio classe 4bi informatica
 
 Ottima proposta grazie a NICU e AHMED per l'iniziativa.
 
