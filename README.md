@@ -1,5 +1,5 @@
 # RegistroDiClasse
-1mo laboratorio classe 4ta informatica
+1mo laboratorio classe 4BI informatica
 
 
 Vorrei precisare alcuni punti che sono importanti per me:
